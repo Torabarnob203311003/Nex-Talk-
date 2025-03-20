@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "@zegocloud/zego-uikit-prebuilt": "^2.14.1-beta",
+    "framer-motion": "^12.5.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
     "react-router-dom": "^7.4.0",
     "zego-express-engine-webrtc": "^3.8.0"
   },

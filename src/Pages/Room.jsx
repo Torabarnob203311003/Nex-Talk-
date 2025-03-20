@@ -15,7 +15,7 @@ function Room() {
             serverSecret,
             roomID,
             Date.now().toString(),
-            "Torab Arnob" // User Name
+            "Your Name" // User Name
         );
 
         // Create and join the room
