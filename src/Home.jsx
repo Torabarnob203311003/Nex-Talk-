@@ -27,7 +27,7 @@ function Home() {
                     onClick={handelJoin}
                     className="w-32 sm:w-36 md:w-40 lg:w-44 px-6 py-2 bg-blue-600 text-white font-semibold rounded-md shadow-md hover:bg-blue-700 hover:scale-105 transition duration-300"
                 >
-                    Join
+                    Join Now
                 </button>
             </div>
         </div>
